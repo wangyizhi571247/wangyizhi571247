@@ -6,8 +6,8 @@ Or you can call me wangyizhi or wyz.
 
 ### My account:
 
-[Codeforces:wangyizhi](https://codeforces.com/profile/wangyizhi)
+[wangyizhi-Codeforces](https://codeforces.com/profile/wangyizhi)
 
-[AtCoder:wangyizhi](https://atcoder.jp/users/wangyizhi)
+[wangyizhi-AtCoder](https://atcoder.jp/users/wangyizhi)
 
-[Luogu:wangyizhi](https://www.luogu.com/user/571247)
+[wangyizhi-Luogu](https://www.luogu.com/user/571247)
